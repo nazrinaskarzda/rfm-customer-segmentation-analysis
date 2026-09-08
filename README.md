@@ -1,6 +1,6 @@
 # RFM Müştəri Seqmentasiyası
 
-Google Sheets-də aparılmış qısa RFM analizidir. Müştərilər son alış vaxtı (**Recency**), alış sayı (**Frequency**) və xərclədiyi məbləğə (**Monetary**) əsasən qiymətləndirilib.
+Müştərilərin son alış vaxtı (**Recency**), alış sayı (**Frequency**) və xərclədiyi məbləğ (**Monetary**) əsasında seqmentləşdirildiyi qısa RFM analizidir.
 
 ## Əsas nəticələr
 
