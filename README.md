@@ -20,4 +20,4 @@ Nəticələr müştəri saxlama və geri qazanma kampaniyalarının prioritetlə
 * [Google Sheets-də analizə bax](https://docs.google.com/spreadsheets/d/12f54f_u2A40CAW-4Dzyxd47TbatsIT_qM3rk7rJS4X0/edit?gid=373711621#gid=373711621)
 * [PDF versiyasına bax](RFM_Customer_Segmentation_Analysis.pdf)
 
-`RFM Analysis` · `Google Sheets` · `Pivot Table` · `Müştəri Seqmentasiyası`
+`RFM Analysis` · `Pivot Table` · `Müştəri Seqmentasiyası`
