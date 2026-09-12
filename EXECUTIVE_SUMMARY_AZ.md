@@ -100,30 +100,27 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 
 #### **Kritik kampaniyalar üçün investisiya (bir rüb)**
 
-```
-E-poçt avtomatlaşdırılması   : $2,000
-Loyallıq platforması        : $3,500
-Telefon bildirişləri        : $1,500
-VIP proqram meneceri (50%)  : $3,000
-Analitika və hesabatlılıq   : $1,500
-─────────────────────────────────────
-CƏMİ                        : $11,500
-```
+#### Təklif olunan büdcə
+
+| Xərc maddəsi | Məbləğ |
+| --- | ---: |
+| E-poçt avtomatlaşdırılması | $2,000 |
+| Loyallıq platforması | $3,500 |
+| Telefon bildirişləri | $1,500 |
+| VIP proqram meneceri (50%) | $3,000 |
+| Analitika və hesabatlılıq | $1,500 |
+| **Cəmi** | **$11,500** |
 
 **Gözlənilən ROI:** 250–350% (3–4 ay ərzində)
 
 ### 9. Zaman Cədvəli (Roadmap)
 
-```
-OKTYABR              NOYABR                DEKABR             YANVAR
-│                    │                     │                  │
-├─ Hazırlıq          ├─ Tətbiq             ├─ Nəzarət         ├─ Qiymətləndirmə
-│  (1–2-ci həftə)    │  (3–4-cü həftə)     │  (1-ci rüb)      │  və tənzimləmə
-│                    │                     │                  │
-└─ E-poçt mətnləri   └─ Kampaniya startı   └─ KPI izlənməsi   └─ Növbəti mərhələ
-   Platformaların       Loyallıq proqramı     Performans          planının hazırlanması
-   seçilməsi            Telefon əlaqəsi       analizi
-```
+| Dövr | Mərhələ | Görüləcək işlər |
+| --- | --- | --- |
+| **Oktyabr** | Hazırlıq | E-poçt mətnlərinin hazırlanması və uyğun platformaların seçilməsi |
+| **Noyabr** | Kampaniyaların başladılması | Loyallıq kampaniyalarının işə salınması və müştərilərlə telefon əlaqəsinin qurulması |
+| **Dekabr** | Nəticələrin izlənməsi | KPI-lərin izlənməsi və kampaniya nəticələrinin təhlili |
+| **Yanvar** | Qiymətləndirmə | Nəticələrin qiymətləndirilməsi, zəruri dəyişikliklərin edilməsi və növbəti mərhələnin planlaşdırılması |
 
 ## Nəticə
 
