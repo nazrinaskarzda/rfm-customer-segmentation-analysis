@@ -1,15 +1,10 @@
-# RFM MÜŞTƏRİ SEQMENTASİYASI ANALİZİ
-## İCRA XÜLASƏSİ (Executive Summary)
+## İcra Xülasəsi (Executive Summary)
 
----
-
-### 1. ANALİZİN MƏQSƏDİ
+### 1. Analizin Məqsədi
 
 Mövcud müştəri bazasını **Recency, Frequency və Monetary** göstəriciləri əsasında seqmentləşdirərək hər bir seqment üçün fərdiləşdirilmiş marketinq strategiyaları hazırlamaq.
 
----
-
-### 2. ƏSAS NƏTİCƏLƏR
+### 2. Əsas Nəticələr
 
 #### **Kritik vəziyyət: Müştəri bazasının 69%-i risk altındadır**
 
@@ -33,9 +28,7 @@ Mövcud müştəri bazasını **Recency, Frequency və Monetary** göstəricilə
 | **Risk altında (17%)** | Azalan aktivlik | Fərdi əlaqə və müdaxilə | 🟠 Yüksək |
 | **Loyal (14%)** | Pozitiv vəziyyət ✓ | Böyümə potensialı | 🟢 Orta |
 
----
-
-### 3. MALİYYƏ TƏSİRİ
+### 3. Maliyyə Təsiri
 
 #### **Zərər analizi**
 
@@ -49,19 +42,17 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 - **Müştəri saxlama səviyyəsində 30% artım** = illik təxminən 25–35% gəlir artımı
 - **Müştərilərin 20%-nin geri qazanılması** = itirilmiş dəyərin 30–40%-nin bərpası
 
----
-
-### 4. İDARƏETMƏ HAZIRLIQLARI
+### 4. İdarəetmə Hazırlıqları
 
 #### **Dərhal tətbiq edilməli tədbirlər**
 
-**Həftə 1–2:**
+**Həftə 1-2:**
 
 - [ ] Seqmentlərə uyğun e-poçt kampaniyalarının hazırlanması
 - [ ] Satış komandasına seqmentasiya məlumatlarının ötürülməsi
 - [ ] Geri qazanma kampaniyası materiallarının hazırlanması
 
-**Həftə 3–4:**
+**Həftə 3-4:**
 
 - [ ] Diqqət tələb edən müştərilərə xüsusi təkliflərin göndərilməsi
 - [ ] İtirilmiş müştərilər üçün məhdudmüddətli promo-kodların yaradılması
@@ -73,9 +64,7 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 - [ ] VIP müştəri proqramının başladılması
 - [ ] Performansın izlənilməsi sisteminin qurulması
 
----
-
-### 5. KPI VƏ ÖLÇÜLƏN GÖSTƏRİCİLƏR
+### 5. KPI və Ölçülən Göstəricilər
 
 #### **Başlanğıc metrikalar**
 
@@ -92,9 +81,7 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 - **Aylıq:** Seqment dəyişiklikləri və RFM ballarının yenilənməsi
 - **Rüblük:** Keyfiyyətin qiymətləndirilməsi və strategiyanın tənzimlənməsi
 
----
-
-### 6. XƏRC–FAYDA ANALİZİ
+### 6. Xərc-Fayda Analizi
 
 #### **Təklif olunan müdaxilələrin qiymətləndirilməsi**
 
@@ -107,7 +94,7 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 
 ---
 
-### 7. RİSKLƏRİN QİYMƏTLƏNDİRİLMƏSİ
+### 7. Risklərin Qiymətləndirməsi
 
 #### **Potensial risklər və onların azaldılması strategiyaları**
 
@@ -120,7 +107,7 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 
 ---
 
-### 8. TƏKLİF OLUNAN BÜDCƏ
+### 8. Təklif Olunan Büdcə
 
 #### **Kritik kampaniyalar üçün investisiya (bir rüb)**
 
@@ -136,9 +123,7 @@ CƏMİ                        : $11,500
 
 **Gözlənilən ROI:** 250–350% (3–4 ay ərzində)
 
----
-
-### 9. ZAMAN CƏDVƏLİ (Roadmap)
+### 9. Zaman Cədvəli (Roadmap)
 
 ```
 OKTYABR              NOYABR                DEKABR             YANVAR
@@ -151,35 +136,10 @@ OKTYABR              NOYABR                DEKABR             YANVAR
    seçilməsi            Telefon əlaqəsi       analizi
 ```
 
----
-
-### 10. FƏALİYYƏTƏ ÇAĞIRIŞ (Call to Action)
-
-#### **İcra addımları:**
-
-1. ✅ Strategiyanın müzakirə və qəbul edilməsi
-2. ✅ Büdcənin təsdiqlənməsi
-3. ✅ Əməkdaşlardan ibarət komandanın təyin edilməsi
-4. ✅ Tətbiqin 1-ci mərhələsinə başlanması (1-ci həftə)
-
----
-
-## NƏTİCƏ
+## Nəticə
 
 Müştəri bazasının 69%-nin risk altında olması **kritik, lakin idarə oluna bilən** vəziyyətdir. Sistemli RFM əsaslı müdaxilə ilə:
 
-- ✅ Qısa müddətdə kritik müştərilərin saxlanması
-- ✅ Orta müddətdə əhəmiyyətli gəlirin bərpası
-- ✅ Uzun müddətdə dayanıqlı böyümə
-
-**İndi hərəkət etməyin vaxtıdır.**
-
----
-
-**Hazırlayan:** [Analitika şöbəsi]  
-**Tarix:** Sentyabr 2024  
-**Sənəd versiyası:** 1.0
-
----
-
-*Suallar və ya ətraflı məlumat tələbi üçün lütfən [Əlaqə şəxsi] ilə əlaqə saxlayın.*
+- Qısa müddətdə kritik müştərilərin saxlanması
+- Orta müddətdə əhəmiyyətli gəlirin bərpası
+- Uzun müddətdə dayanıqlı böyümə
