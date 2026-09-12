@@ -102,10 +102,10 @@ RFM balları 1–5 diapazonunda hesablanıb və müştərilər aşağıdakı kat
 
 | Fayl | Təsvir |
 | --- | --- |
-| [İcra xülasəsi](docs/EXECUTIVE_SUMMARY_AZ.md) | Əsas nəticələr, maliyyə təsiri, KPI-lər və fəaliyyət planı |
-| [Texniki sənədləşdirmə](docs/TECHNICAL_DOCUMENTATION_AZ.md) | RFM metodologiyası, ballandırma qaydaları və seqmentasiya modeli |
-| [Ətraflı analiz hesabatı](RFM_Customer_Segmentation_Analysis.pdf) | Layihənin ətraflı PDF hesabatı |
-| [Seqment bölgüsü](RFM_Segment_Distribution.png) | RFM seqmentlərinin vizualizasiyası |
+| [İcra xülasəsi](./EXECUTIVE_SUMMARY_AZ.md) | Əsas nəticələr, maliyyə təsiri, KPI-lər və fəaliyyət planı |
+| [Texniki sənədləşdirmə](./TECHNICAL_DOCUMENTATION_AZ.md) | RFM metodologiyası, ballandırma qaydaları və seqmentasiya modeli |
+| [Ətraflı analiz hesabatı](./RFM_Customer_Segmentation_Analysis.pdf) | Layihənin ətraflı PDF hesabatı |
+| [Seqment bölgüsü](./RFM_Segment_Distribution.png) | RFM seqmentlərinin vizualizasiyası |
 | [Google Sheets cədvəli](https://docs.google.com/spreadsheets/d/12f54f_u2A40CAW-4Dzyxd47TbatsIT_qM3rk7rJS4X0/edit?gid=373711621#gid=373711621) | Analizdə istifadə olunan işçi cədvəl |
 
 
