@@ -1,9 +1,6 @@
-# RFM MÜŞTƏRİ SEQMENTASİYASI ANALİZİ
-## TEXNİKİ DOKUMENTASİYA
+## Texniki Dokumentasiya
 
----
-
-## 1. VERİLƏNLƏR LÜĞƏTİ (Data Dictionary)
+## 1. Verilənlər Lüğəti (Data Dictionary)
 
 ### 1.1 Əsas məlumat strukturu
 
@@ -19,27 +16,27 @@ Cədvəl: Müştərilər
 
 ### 1.2 Əsas dəyişənlər
 
-#### **Recency (R) — son alışdan keçən müddət**
+#### **Recency (R) - son alışdan keçən müddət**
 
 | Parametr | Təsvir |
 | --- | --- |
-| **Formula** | Recency = bugünkü tarix − son alış tarixi |
+| **Formula** | Recency = bugünkü tarix - son alış tarixi |
 | **Vahid** | Gün |
-| **Bal diapazonu** | 1–5 (5 = ən yüksək) |
+| **Bal diapazonu** | 1-5 (5 = ən yüksək) |
 | **Şərh** | Aşağı dəyərlər daha yüksək aktivliyi göstərir |
 
 **Ballandırma cədvəli:**
 
 ```
 Gün diapazonu    → R balı
-0–30 gün         → 5
-31–60 gün        → 4
-61–90 gün        → 3
-91–180 gün       → 2
+0-30 gün         → 5
+31-60 gün        → 4
+61-90 gün        → 3
+91-180 gün       → 2
 180+ gün         → 1
 ```
 
-#### **Frequency (F) — alış tezliyi**
+#### **Frequency (F) - alış tezliyi**
 
 | Parametr | Təsvir |
 | --- | --- |
@@ -59,7 +56,7 @@ Alış sayı        → F balı
 1–3 alış         → 1
 ```
 
-#### **Monetary (M) — pul xərci**
+#### **Monetary (M) - pul xərci**
 
 | Parametr | Təsvir |
 | --- | --- |
@@ -79,9 +76,7 @@ Xərc diapazonu   → M balı
 0–4,999          → 1
 ```
 
----
-
-## 2. SEQMENTASİYA MODELİ
+## 2. Seqmentasiya Modeli
 
 ### 2.1 Seqmentlərin təsviri
 
@@ -107,8 +102,6 @@ Dəyər səviyyəsi: Ən yüksək (VIP)
 - Tövsiyə (referral) proqramlarına dəvət
 - Premium xidmətin təmin edilməsi
 
----
-
 #### **2. LOYAL MÜŞTƏRİLƏR (Loyal Customers)**
 
 ```
@@ -131,8 +124,6 @@ Dəyər səviyyəsi: Yüksək
 - Çarpaz satış və əlavə satış (cross-selling/up-selling) fəaliyyətləri
 - Loyallıq proqramının təkmilləşdirilməsi
 
----
-
 #### **3. POTENSİAL BÖYÜMƏ (Potential High Value)**
 
 ```
@@ -153,8 +144,6 @@ Dəyər səviyyəsi: Orta–yüksək
 - Aktivliyin saxlanılması
 - Təkrar alışa təşviq
 - Qarşılıqlı əlaqənin artırılması
-
----
 
 #### **4. RİSK ALTINDA OLANLAR (At Risk)**
 
@@ -178,8 +167,6 @@ Dəyər səviyyəsi: Orta
 - Xüsusi təkliflər və endirimlər
 - Səbəbləri anlamaq üçün rəy (feedback) toplamaq
 
----
-
 #### **5. YENİ MÜŞTƏRİLƏR (New Customers)**
 
 ```
@@ -201,8 +188,6 @@ Dəyər səviyyəsi: Aşağı (böyümə potensialı ilə)
 - Yüksək keyfiyyətli ilkin istifadə təcrübəsi
 - Təkrar alışa təşviq
 - Uzunmüddətli münasibətin qurulması
-
----
 
 #### **6. İTİRİLMİŞ MÜŞTƏRİLƏR (Lost Customers)**
 
@@ -226,8 +211,6 @@ Dəyər səviyyəsi: Aşağı (bərpa potensialı ilə)
 - Məhdudmüddətli xüsusi təkliflər
 - Əlaqə məlumatlarını doğrulamaq
 
----
-
 #### **7. DİQQƏT TƏLƏB EDƏN (Needs Attention)**
 
 ```
@@ -250,9 +233,7 @@ Dəyər səviyyəsi: Çox aşağı
 - Əlaqə məlumatlarının təsdiqlənməsi
 - Bazanın təmizlənməsi məsələsi
 
----
-
-## 3. HESABLAMA METODOLOGİYASI
+## 3. Hesablama Metodologiyası
 
 ### 3.1 RFM balının hesablanması
 
@@ -299,9 +280,7 @@ IF(RFM_Composite_Score >= 444, "Champion",
 6. Maraqlı tərəflərə hesabatın göndərilməsi
 ```
 
----
-
-## 4. KEYFİYYƏTƏ NƏZARƏT VƏ VALİDASİYA
+## 4. Keyfiyyətə Nəzarət və Validasiya
 
 ### 4.1 Məlumatların doğrulanması
 
@@ -328,9 +307,7 @@ Normal bölgü:
 Kənarlaşma həddi: ±5% (araşdırma tələb olunur)
 ```
 
----
-
-## 5. TƏHLİL VƏ İSTİFADƏ
+## 5. Təhlil və İstifadə
 
 ### 5.1 Dashboard metrikləri
 
@@ -362,11 +339,9 @@ Lost              Geri qazanma dərəcəsi          +15%         Aylıq
 Needs Attention   Yenidən cəlbetmə dərəcəsi      +20%         Aylıq
 ```
 
----
+## 6. İstifadə ssenariləri və konfiqurasiyası
 
-## 6. İSTİFADƏ SƏNARİLƏRİ VƏ KONFİQURASİYA
-
-### 6.1 RFM bal parametrləri (əlavə tənzimləmə)
+### 6.1 RFM bal parametrləri
 
 Aşağıdakı parametrlər biznes tələblərinə uyğun tənzimlənə bilər:
 
@@ -393,69 +368,3 @@ Düzəliş tələb olunan hallar:
 1. Bazanın ölçüsü kəskin şəkildə dəyişərsə
 2. Davranış meyarları markaya görə fərqlənərsə
 3. Seqmentdaxili meyarlar fərdiləşdirmə tələb edərsə
-
----
-
-## 7. QAYDALAR VƏ TƏHLÜKƏSİZLİK
-
-### 7.1 Məlumatların məxfiliyi (Data Privacy)
-
-- ✓ GDPR və yerli məlumatların qorunması qanunlarına uyğunluq
-- ✓ Müştəri məlumatlarının şifrələnməsi
-- ✓ Giriş hüquqlarının məhdudlaşdırılması (əsasən analitika komandası üçün)
-- ✓ Müxtəlif audit qeydləri
-
-### 7.2 Məlumatların saxlanılması siyasəti
-
-- **Aktiv məlumatlar:** 24 ay
-- **Arxiv:** 3 il
-- **Silmə:** Müştərinin silinmə tələbindən sonra 30 gün ərzində
-
----
-
-## 8. KANALLAR VƏ İNTEQRASİYA
-
-### 8.1 Məlumat mənbələri
-
-```
-├── CRM sistemi (əsas)
-│   └── CustomerID, alış tarixçəsi
-├── Elektron ticarət platforması
-│   └── Qiymət məlumatları, sifariş tarixçəsi
-├── E-poçt platforması
-│   └── Kampaniyalarla qarşılıqlı əlaqə
-└── Analitika aləti
-    └── Veb-sayt aktivliyi
-```
-
-### 8.2 Əlaqə tezliyi
-
-```
-Seqment           E-poçt             SMS       Push      In-App    Telefon
-─────────────────────────────────────────────────────────────────────────
-Champion          Həftəlik           Aylıq     Aylıq     Aylıq     Rüblük
-Loyal             İki həftədən bir   Aylıq     Aylıq     Aylıq     Rüblük
-At Risk           Həftəlik           Həftəlik  Həftəlik  Həftəlik  Rüblük
-Lost              Aylıq              Aylıq     —         —         Rüblük
-Needs Attention   Aylıq              Aylıq     —         —         Rüblük
-```
-
----
-
-## 9. MƏNBƏLƏR VƏ İSTİNADLAR
-
-- RFM Analysis Best Practices, Gartner Group
-- Customer Segmentation Models, HBR
-- Cohort Analysis Framework, Eric Seufert
-- CLV Calculation Methods, Bain & Company
-
----
-
-**Hazırlayan:** Verilənlərin analitikası şöbəsi  
-**Son yenilənmə:** Sentyabr 2024  
-**Versiya:** 1.0  
-**Status:** ✅ Aktiv
-
----
-
-*Hər hansı sual üçün Verilənlərin analitikası şöbəsi ilə əlaqə saxlayın.*
