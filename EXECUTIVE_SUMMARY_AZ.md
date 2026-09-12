@@ -8,17 +8,6 @@ Mövcud müştəri bazasını **Recency, Frequency və Monetary** göstəricilə
 
 #### **Kritik vəziyyət: Müştəri bazasının 69%-i risk altındadır**
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                  MÜŞTƏRİ SEQMENTLƏRİ                      ║
-╠════════════════════════════════════════════════════════════╣
-║  🔴 Diqqət tələb edən:        18 müştəri  (43%)           ║
-║  🟠 İtirilmiş:                11 müştəri  (26%)           ║
-║  🟡 Risk altında:              7 müştəri  (17%)           ║
-║  🟢 Loyal və Champion:          6 müştəri  (14%)           ║
-╚════════════════════════════════════════════════════════════╝
-```
-
 #### **Riskli seqmentlərin analizi**
 
 | Seqment | Məsələ | Qiymətləndirmə | Prioritet |
