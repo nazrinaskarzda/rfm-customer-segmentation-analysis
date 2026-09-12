@@ -2,9 +2,7 @@
 
 ## Layihə haqqında
 
-Bu layihə müştərilərin **Recency** (son alışdan keçən müddət), **Frequency** (alış tezliyi) və **Monetary** (pul xərci) metrikaları əsasında həyata keçirilən müştəri seqmentasiyası analizidir. RFM analizi müştərilərə xidmət göstərilməsi zamanı mövcud olan müxtəlif seqmentlərin fərqləndirilməsi və hərtərəfli marketinq strategiyalarının qurulması üçün istifadə olunan klassik üsuldur.
-
----
+Layihə müştərilərin **Recency** (son alışdan keçən müddət), **Frequency** (alış tezliyi) və **Monetary** (pul xərci) metrikaları əsasında həyata keçirilən müştəri seqmentasiyası analizidir. RFM analizi müştərilərə xidmət göstərilməsi zamanı mövcud olan müxtəlif seqmentlərin fərqləndirilməsi və hərtərəfli marketinq strategiyalarının qurulması üçün istifadə olunan klassik üsuldur.
 
 ## Analiz nəticələri
 
@@ -26,8 +24,6 @@ Bu layihə müştərilərin **Recency** (son alışdan keçən müddət), **Freq
 - **Risklərin idarə edilməsi:** Müştərilərin 17%-ni təşkil edən risk qrupunun strukturlaşdırılmış kommunikasiya və xüsusi təkliflər vasitəsilə saxlanması kritik əhəmiyyət daşıyır.
 
 - **Dəyərli seqmentin böyümə potensialı:** Loyal və champion müştərilərdən ibarət 14%-lik seqmentə uzunmüddətli dəyər yaratmaq üçün prioritet verilməlidir.
-
----
 
 ## Metodoloji yanaşma
 
@@ -62,8 +58,6 @@ RFM balları 1–5 diapazonunda hesablanıb və müştərilər aşağıdakı kat
 - **Yeni:** yüksək R, aşağı F
 - **İtirilmiş:** aşağı R, aşağı F, aşağı M
 - **Diqqət tələb edən:** çox aşağı R
-
----
 
 ## Marketinq tövsiyələri
 
@@ -103,44 +97,6 @@ RFM balları 1–5 diapazonunda hesablanıb və müştərilər aşağıdakı kat
   - Eksklüziv xidmətlər və xüsusi istəklərin qarşılanması
   - Tövsiyə (referral) proqramlarında iştiraka dəvət
   - Premium xidmət səviyyəsi və dəstək
-
----
-
-## Verilənlər və mənbələr
-
-- **Analiz dövrü:** [Müəyyən dövr]
-- **Müştəri sayı:** 42
-- **Məlumat mənbəyi:** [Məlumat bazası/CRM sistemi]
-- **Analiz tarixi:** [Analiz tarixi]
-
----
-
-## Fayllar
-
-| Fayl | Təsvir |
-| --- | --- |
-| `RFM_Customer_Segmentation_Analysis.pdf` | Ətraflı analiz hesabatı |
-| `RFM_Segment_Distribution.png` | Seqment bölgüsünün vizualizasiyası |
-| Cədvəl | [Google Sheets keçidi](https://docs.google.com/spreadsheets/d/12f54f_u2A40CAW-4Dzyxd47TbatsIT_qM3rk7rJS4X0/edit?gid=373711621#gid=373711621) |
-
----
-
-## İstifadə olunan texnologiyalar
-
-- **Google Sheets:** Verilənlərin təhlili və sürətli emalı
-- **Pivot Table:** Seqmentasiyanın həyata keçirilməsi
-- **Vizualizasiya:** RFM seqmentlərinin göstərilməsi
-
----
-
-## Sonrakı addımlar
-
-1. **Operasional icra:** Seqmentlərə uyğun kampaniyaların fəallaşdırılması
-2. **Performansın izlənməsi:** Seqment dəyişikliklərinin aylıq monitorinqi
-3. **Dinamik seqmentasiya:** Verilənlərin real vaxt rejimində yenilənməsi
-4. **Fərdiləşdirmənin artırılması:** Seqmentlər üçün məhsul və xidmətlərin fərdiləşdirilməsi
-
----
 
 ![RFM seqmentlərinin bölgüsü](RFM_Segment_Distribution.png)
 
