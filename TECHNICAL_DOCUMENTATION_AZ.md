@@ -265,21 +265,6 @@ IF(RFM_Composite_Score >= 444, "Champion",
                   "Needs_Attention"))))))
 ```
 
-### 3.2 Verilənlərin yenilənməsi
-
-**Yenilənmə tezliyi:** Aylıq  
-**Zaman nöqtəsi:** Hər ayın son həftəsi  
-**Proses:**
-
-```
-1. Əvvəlki dövr üzrə bütün əməliyyat məlumatlarının əldə edilməsi
-2. Recency, Frequency və Monetary dəyərlərinin yenilənməsi
-3. Yeni R, F və M ballarının hesablanması
-4. Müştərilərin seqmentlərə yenidən təyin edilməsi
-5. Dəyişikliklərin sənədləşdirilməsi (dəyişikliklərin təhlili)
-6. Maraqlı tərəflərə hesabatın göndərilməsi
-```
-
 ## 4. Keyfiyyətə Nəzarət və Validasiya
 
 ### 4.1 Məlumatların doğrulanması
@@ -290,21 +275,6 @@ IF(RFM_Composite_Score >= 444, "Champion",
 ✓ Müsbət dəyərlərin doğrulanması (alış sayı, məbləğ)
 ✓ Kovariant xəbərdarlığının təhlili
 ✓ Kənar dəyərlərin aşkarlanması (outlier detection)
-```
-
-### 4.2 Seqment balansının yoxlanılması
-
-```
-Normal bölgü:
-- Champion:          3–5%
-- Loyal:             8–10%
-- Potential:         6–10%
-- At Risk:          15–20%
-- New:               5–8%
-- Lost:             20–30%
-- Needs Attention:  30–40%
-
-Kənarlaşma həddi: ±5% (araşdırma tələb olunur)
 ```
 
 ## 5. Təhlil və İstifadə
@@ -323,20 +293,6 @@ Kənarlaşma həddi: ±5% (araşdırma tələb olunur)
 ├── Aktivləşdirmə dərəcəsi (Recency)
 ├── Təkrar alış dərəcəsi (Frequency)
 └── İdeal xərcləmə dərəcəsi (Monetary)
-```
-
-### 5.2 Müdaxilə hədəflərinin müəyyən edilməsi
-
-```
-Seqment           Hədəf metrika                  Hədəf dəyər  İnterval
-─────────────────────────────────────────────────────────────────────
-Champion          CLV-nin saxlanılması           +5%          Aylıq
-Loyal             Çarpaz satış dərəcəsi          +20%         Rüblük
-Potential         Aktivliyin saxlanılması        +25%         İki həftədən bir
-At Risk           Yenidən aktivləşmə dərəcəsi    +30%         Həftəlik
-New               Təkrar alış dərəcəsi           +40%         Rüblük
-Lost              Geri qazanma dərəcəsi          +15%         Aylıq
-Needs Attention   Yenidən cəlbetmə dərəcəsi      +20%         Aylıq
 ```
 
 ## 6. İstifadə ssenariləri və konfiqurasiyası
