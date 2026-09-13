@@ -28,8 +28,8 @@ Mövcud müştəri bazasını **Recency, Frequency və Monetary** göstəricilə
 
 Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər əldə edilə bilər:
 
-- **Müştəri saxlama səviyyəsində 30% artım** = illik təxminən 25–35% gəlir artımı
-- **Müştərilərin 20%-nin geri qazanılması** = itirilmiş dəyərin 30–40%-nin bərpası
+- **Müştəri saxlama səviyyəsində 30% artım** = illik təxminən 25-35% gəlir artımı
+- **Müştərilərin 20%-nin geri qazanılması** = itirilmiş dəyərin 30-40%-nin bərpası
 
 ### 4. İdarəetmə Hazırlıqları
 
@@ -76,12 +76,10 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 
 | Tədbirlər paketi | Təxmini xərc | Gözlənilən ROI | Prioritet |
 | --- | ---: | ---: | ---: |
-| E-poçt kampaniyası | Aşağı | 300–400% | 🥇 1 |
-| Loyallıq proqramı | Orta | 200–300% | 🥈 2 |
-| Telefon bildirişi | Orta | 250–350% | 🥉 3 |
-| VIP proqramı | Yüksək | 150–200% | 4 |
-
----
+| E-poçt kampaniyası | Aşağı | 300-400% | 🥇 1 |
+| Loyallıq proqramı | Orta | 200-300% | 🥈 2 |
+| Telefon bildirişi | Orta | 250-350% | 🥉 3 |
+| VIP proqramı | Yüksək | 150-200% | 4 |
 
 ### 7. Risklərin Qiymətləndirməsi
 
@@ -93,8 +91,6 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 | Müştərilərin reaksiyasızlığı | Orta | Orta | Fərdiləşdirilmiş kommunikasiya |
 | Sistem inteqrasiyası | Aşağı | Orta | Texniki şirkətlə məsləhətləşmə |
 | Büdcənin aşılması | Aşağı | Aşağı | Mərhələli tətbiq, prioritetlərin müəyyənləşdirilməsi |
-
----
 
 ### 8. Təklif Olunan Büdcə
 
@@ -111,7 +107,7 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 | Analitika və hesabatlılıq | $1,500 |
 | **Cəmi** | **$11,500** |
 
-**Gözlənilən ROI:** 250–350% (3–4 ay ərzində)
+**Gözlənilən ROI:** 250-350% (3-4 ay ərzində)
 
 ### 9. Zaman Cədvəli (Roadmap)
 
