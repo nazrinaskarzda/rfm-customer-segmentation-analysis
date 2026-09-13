@@ -277,27 +277,9 @@ IF(RFM_Composite_Score >= 444, "Champion",
 ✓ Kənar dəyərlərin aşkarlanması (outlier detection)
 ```
 
-## 5. Təhlil və İstifadə
+## 5. İstifadə ssenariləri və konfiqurasiyası
 
-### 5.1 Dashboard metrikləri
-
-```
-ƏSAS KPI-LƏR:
-├── Seqment bölgüsü (Pie Chart)
-├── Seqmentlərin zaman üzrə dəyişməsi (Trend)
-├── Orta RFM balı (Heatmap)
-└── Seqment keçid matrisi
-
-İKİNCİ DƏRƏCƏLİ KPI-LƏR:
-├── Seqment üzrə orta müştəri dəyəri (CLV)
-├── Aktivləşdirmə dərəcəsi (Recency)
-├── Təkrar alış dərəcəsi (Frequency)
-└── İdeal xərcləmə dərəcəsi (Monetary)
-```
-
-## 6. İstifadə ssenariləri və konfiqurasiyası
-
-### 6.1 RFM bal parametrləri
+### 5.1 RFM bal parametrləri
 
 Aşağıdakı parametrlər biznes tələblərinə uyğun tənzimlənə bilər:
 
@@ -316,11 +298,3 @@ Monetary:
   Premium: 50,000+ AZN
   HighValue: 30,000–49,999 AZN
 ```
-
-### 6.2 Dinamik seqmentasiya
-
-Düzəliş tələb olunan hallar:
-
-1. Bazanın ölçüsü kəskin şəkildə dəyişərsə
-2. Davranış meyarları markaya görə fərqlənərsə
-3. Seqmentdaxili meyarlar fərdiləşdirmə tələb edərsə
