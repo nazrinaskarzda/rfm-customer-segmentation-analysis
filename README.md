@@ -49,12 +49,12 @@ Layihə müştərilərin **Recency** (son alışdan keçən müddət), **Frequen
 
 ### Seqmentasiya modeli
 
-RFM balları 1–5 diapazonunda hesablanıb və müştərilər aşağıdakı kateqoriyalara ayrılıb:
+RFM balları 1-5 diapazonunda hesablanıb və müştərilər aşağıdakı kateqoriyalara ayrılıb:
 
 - **Champion:** yüksək R, yüksək F, yüksək M
-- **Loyal:** orta–yüksək F, yüksək M
-- **Potensial:** orta R, orta–yüksək F
-- **Risk altında:** aşağı R, orta–yüksək F
+- **Loyal:** orta-yüksək F, yüksək M
+- **Potensial:** orta R, orta-yüksək F
+- **Risk altında:** aşağı R, orta-yüksək F
 - **Yeni:** yüksək R, aşağı F
 - **İtirilmiş:** aşağı R, aşağı F, aşağı M
 - **Diqqət tələb edən:** çox aşağı R
