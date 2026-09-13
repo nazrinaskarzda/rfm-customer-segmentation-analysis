@@ -92,32 +92,6 @@ Planlaşdırılmış müdaxilələr nəticəsində aşağıdakı göstəricilər
 | Sistem inteqrasiyası | Aşağı | Orta | Texniki şirkətlə məsləhətləşmə |
 | Büdcənin aşılması | Aşağı | Aşağı | Mərhələli tətbiq, prioritetlərin müəyyənləşdirilməsi |
 
-### 8. Təklif Olunan Büdcə
-
-#### **Kritik kampaniyalar üçün investisiya (bir rüb)**
-
-#### Təklif olunan büdcə
-
-| Xərc maddəsi | Məbləğ |
-| --- | ---: |
-| E-poçt avtomatlaşdırılması | $2,000 |
-| Loyallıq platforması | $3,500 |
-| Telefon bildirişləri | $1,500 |
-| VIP proqram meneceri (50%) | $3,000 |
-| Analitika və hesabatlılıq | $1,500 |
-| **Cəmi** | **$11,500** |
-
-**Gözlənilən ROI:** 250-350% (3-4 ay ərzində)
-
-### 9. Zaman Cədvəli (Roadmap)
-
-| Dövr | Mərhələ | Görüləcək işlər |
-| --- | --- | --- |
-| **Oktyabr** | Hazırlıq | E-poçt mətnlərinin hazırlanması və uyğun platformaların seçilməsi |
-| **Noyabr** | Kampaniyaların başladılması | Loyallıq kampaniyalarının işə salınması və müştərilərlə telefon əlaqəsinin qurulması |
-| **Dekabr** | Nəticələrin izlənməsi | KPI-lərin izlənməsi və kampaniya nəticələrinin təhlili |
-| **Yanvar** | Qiymətləndirmə | Nəticələrin qiymətləndirilməsi, zəruri dəyişikliklərin edilməsi və növbəti mərhələnin planlaşdırılması |
-
 ## Nəticə
 
 Müştəri bazasının 69%-nin risk altında olması **kritik, lakin idarə oluna bilən** vəziyyətdir. Sistemli RFM əsaslı müdaxilə ilə:
